@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lr1_bjw_mx">
+    <title>How to Make Friends on the Bus</title>
+    <shortdesc>You just woke up at a new apartment, and you have no idea where you are. You have to
+        get to campus, but the friend you usually ride with isn't there. The only possible solution
+        is to either ride the bus in miserable and embarrassing silence, or make a friend. </shortdesc>
+    <taskbody>
+        <context> Virginia Tech contains a plethora of people. You should, statistically, be able to
+            make a new friend every day. Riding the bus from Maple Ridge to campus gives you ample
+            time to forge a connection with strangers. <note type="warning">These steps will require
+                you to talk to and interact with strangers.</note></context>
+        <steps>
+            <step>
+                <cmd>Stand inside the bus shelter (Figure 1) at the Maple Ridge bus stop.</cmd>
+                <info>
+                    <fig id="fig_pl1_p5k_nx">
+                        <title>Figure 1</title>
+                        <image placement="break" href="_images/Bus%20Shelter.jpg" width="400"
+                            height="400" align="center" id="image_ql1_p5k_nx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Place book in backpack and take headphones out of ears. Be as approachable as
+                    possible.</cmd>
+            </step>
+            <step>
+                <cmd>Locate another individual who is not looking at their phone while waiting
+                    (Figure 2). </cmd>
+                <info>
+                    <fig id="fig_uh1_r5k_nx">
+                        <title>Figure 2</title>
+                        <image placement="break" href="_images/Person%20Patiently%20Waiting.jpg"
+                            width="400" height="300" align="center" id="image_vh1_r5k_nx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Smile at that person. </cmd>
+            </step>
+            <step>
+                <cmd>Say "Hi, how are you?" and wait for a response. </cmd>
+            </step>
+            <step>
+                <cmd>Continue the conversation by finding a mutual interest. </cmd>
+            </step>
+            <step>
+                <cmd>Sit next to that person on the bus.</cmd>
+            </step>
+            <step>
+                <cmd>Exhange names.</cmd>
+            </step>
+            <step>
+                <cmd>Friend them on Facebook. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

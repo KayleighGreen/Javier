@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Manual for Surviving College</title>
+ <topicref href="Introduction.dita"></topicref>
+ <topicref href="How%20to%20Make%20Friends%20on%20the%20Bus.dita"></topicref>
+ <topicref href="How%20to%20Talk%20in%20Class.dita"></topicref>
+ <topicref href="How%20to%20be%20Involved%20on%20Campus.dita"></topicref>
+ <topicref href="Conclusion.dita"></topicref>
+</map>

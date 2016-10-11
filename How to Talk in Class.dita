@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_otr_xgk_nx">
+    <title>How to Talk More in Class</title>
+    <shortdesc>Now that you are on campus, and made a new friend, it's time to start asserting
+        yourself in class. The best way to show off your knowledge, and impress your classmates, is
+        to talk as much as you can in class. </shortdesc>
+    <taskbody>
+        <context>This task will require you to speak your mind, whether or not you think you are
+            correct. The best way to learn something is to be shut down multiple
+            times!<p/></context>
+        <steps>
+            <step>
+                <cmd>Wait politely as the instructor begins the lecture. </cmd>
+            </step>
+            <step>
+                <cmd>Nod along and make assertive eye contact. Let the teacher know that you are
+                    paying attention.</cmd>
+            </step>
+            <step>
+                <cmd>Say "Yes, I understand," when the teacher asks the class about any questions or
+                    concerns and looks to you for guidance. </cmd>
+            </step>
+            <step>
+                <cmd>Raise your hand high and asseritvely (Figure 1) when the instructor opens up
+                    the floor for class discussion.</cmd>
+                <info>
+                    <fig id="fig_ssy_zjk_nx">
+                        <title>Figure 1</title>
+                        <image placement="break" href="_images/Raising%20Hand%20in%20Class.jpg"
+                            width="500" height="400" align="center" id="image_k4p_1vk_nx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Talk about the first related topic that comes to mind. </cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 1-5 as you see fit.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

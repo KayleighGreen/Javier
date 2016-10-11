@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_axb_ylk_nx">
+    <title>How to be Involved on Campus</title>
+    <shortdesc>Now that you have made new friends and showed off your knowledge in class, you would
+        like to join some organizations and test your skills in the "real world" of campus. </shortdesc>
+    <taskbody>
+        <context>This task will require you to go to different organizations on campus to find the
+            perfect fit for you and your interests. The following steps will walk you through one of
+            the ways you can get involved. </context>
+        <steps>
+            <step>
+                <cmd>Go to Gobblerfest at Virginia Tech (Figure 1).</cmd>
+                <info>
+                    <fig id="fig_efr_kvk_nx">
+                        <title>Figure 1</title>
+                        <image placement="break" href="_images/Gobblerfest.jpg" width="500"
+                            height="300" align="center" id="image_ffr_kvk_nx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Walk around and look at all of the clubs and activities being offered. </cmd>
+            </step>
+            <step>
+                <cmd>Find one that catches your interest. For example, Statistics or English
+                    Club.</cmd>
+            </step>
+            <step>
+                <cmd>Walk up to table. </cmd>
+            </step>
+            <step>
+                <cmd>Talk to the students about their club or organization.</cmd>
+            </step>
+            <step>
+                <cmd>Leave contact information.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the club meetings once you receive their information.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
